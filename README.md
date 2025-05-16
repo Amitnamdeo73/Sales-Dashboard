@@ -3,7 +3,7 @@ Sales dashboard for a chocolate company
 See full dashboard here -[App PowerBI link](https://app.powerbi.com/view?r=eyJrIjoiNWJiNDQ4YTQtNWIxNi00NmE5LTk1MWEtNmNkZGUyM2U4ZmEwIiwidCI6IjUzNTA4ZDUyLWQxYjAtNDliMC1iNGJhLTM1MzNjMTI0OWEwMSJ9)
 
 
-![Portfolio-Dashboard](Sales-DB screenshot.png)
+![Portfolio-Dashboard](Sales-DBscreenshot.png)
 
 Awesome Chocolates Sales Dashboard
 This project showcases a Sales Performance Dashboard for a fictional company, Awesome Chocolates, built using Power BI and Excel.
