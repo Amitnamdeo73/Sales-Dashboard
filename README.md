@@ -1,5 +1,6 @@
 # Sales-Dashboard
 Sales dashboard for a chocolate company
+
 See full dashboard here -[App PowerBI link](https://app.powerbi.com/view?r=eyJrIjoiNWJiNDQ4YTQtNWIxNi00NmE5LTk1MWEtNmNkZGUyM2U4ZmEwIiwidCI6IjUzNTA4ZDUyLWQxYjAtNDliMC1iNGJhLTM1MzNjMTI0OWEwMSJ9)
 
 
